@@ -10,8 +10,10 @@ All the packages that i´m using on this project are:
 
 **dotenv**
 
-**openai**
+**openai** (have costs to use, based on your openai account)
 
 Make sure u have all installed.
 
 _____________________________________
+
+Thanks to enjoy my new project !
