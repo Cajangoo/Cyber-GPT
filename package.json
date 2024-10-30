@@ -1,0 +1,17 @@
+{
+  "name": "cyber-gpt",
+  "version": "1.0.0",
+  "description": "A bot integrated with Chat-GPT OpenAi, i´m developing this bot just for academic issues, and here i will show u what i use to create this bot.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.16.3",
+    "dotenv": "^16.4.5",
+    "openai": "^4.68.4"
+  }
+}
